@@ -1,0 +1,6 @@
+  { id: 1, name: 'Baby Sock and hair band', price: 49.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/29/158275/1.jpg?5241' , category : 'Cloths'},
+  { id: 2, name: 'Kid Education Learning Table Toys', price: 29.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/9376441/1.jpg?4384', category:"Toys" },
+  { id: 3, name: 'Baby Sock and hair band', price: 49.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/29/158275/1.jpg?5241' , category : 'Cloths'},
+  { id: 4, name: 'Kid Education Learning Table Toys', price: 29.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/9376441/1.jpg?4384', category:"Toys" },
+  { id: 5, name: 'Baby Sock and hair band', price: 49.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/29/158275/1.jpg?5241' , category : 'Cloths'},
+  { id: 6, name: 'Kid Education Learning Table Toys', price: 29.99, imageUrl: 'https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/28/9376441/1.jpg?4384', category:"Toys" },
